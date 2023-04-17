@@ -9,9 +9,11 @@ Write a simple UNIX command interpreter.
 
 ## Project Files
 
-*`#0969DA` AUTHORS*       file lists the contributors to the project.
+*`AUTHORS`*
+   file lists the contributors to the project.
 
-* `#0969DA` README.md*     a brief overview of the project.
+* `README.md`*
+   a brief overview of the project.
 
 ## Compilation
 
