@@ -9,15 +9,16 @@ Write a simple UNIX command interpreter.
 
 ## Project Files
 
-*AUTHORS*    file lists the contributors to the project.
-*README.md*  a brief overview of the project.
+*`#0969DA` AUTHORS*       file lists the contributors to the project.
+
+* `#0969DA` README.md*     a brief overview of the project.
 
 ## Compilation
 
 + Your shell will be compiled this way
 
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
+> gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
 + run the shell using
 
-./hsh
+> ./hsh
