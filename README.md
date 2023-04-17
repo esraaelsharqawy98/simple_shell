@@ -10,10 +10,10 @@ Write a simple UNIX command interpreter.
 ## Project Files
 
 *`AUTHORS`*
-   file lists the contributors to the project.
+          file lists the contributors to the project.
 
-* `README.md`*
-   a brief overview of the project.
+*`README.md`*
+         a brief overview of the project.
 
 ## Compilation
 
